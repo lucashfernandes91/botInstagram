@@ -1,2 +1,2 @@
-se estiver usando windowns colocar a pasta "geckodriver" na raiz "C:/".
-Ex.: C:\geckodriver
+Script desenvolvido usando Python e Selenium.
+Python v3.6
